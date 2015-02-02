@@ -1,2 +1,2 @@
 # Android_AnimationHorizontalListView
-a simple realization and demo of android animation horizontalListView.
+a simple realization and demo of android animate horizontalListView.
